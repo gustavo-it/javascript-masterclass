@@ -10,12 +10,12 @@
 ## 🧭 Índice
 
 - [🔰 Sobre o Repositório](#-sobre-o-repositório)
-- [📘 Seção 1: JavaScript Básico](#📘-seção-1-javascript-básico)
-- [🧠 Seção 2: Lógica de Programação com JavaScript](#🧠-seção-2-lógica-de-programação-com-javascript)
-- [🎯 Objetivos](#🎯-objetivos)
-- [⚙️ Como Usar](#⚙️-como-usar)
-- [📖 Documentação](#📖-documentação)
-- [🎯 Objetivos](#🎯-objetivos)
+- [📘 Seção 1: JavaScript Básico](#-seção-1-javascript-básico)
+- [🧠 Seção 2: Lógica de Programação com JavaScript](#-seção-2-lógica-de-programação-com-javascript)
+- [🎯 Objetivos](#-objetivos)
+- [⚙️ Como Usar](#-como-usar)
+- [📖 Documentação](#-documentação)
+- [🎯 Objetivos](#-objetivos)
 - [👨‍💻 Autor](#autor)
 
 ---
