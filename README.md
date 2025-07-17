@@ -13,9 +13,8 @@
 - [📘 Seção 1: JavaScript Básico](#-seção-1-javascript-básico)
 - [🧠 Seção 2: Lógica de Programação com JavaScript](#-seção-2-lógica-de-programação-com-javascript)
 - [🎯 Objetivos](#-objetivos)
-- [⚙️ Como Usar](#-como-usar)
+- [⚙️ Como Usar](#%EF%B8%8F-como-usar)
 - [📖 Documentação](#-documentação)
-- [🎯 Objetivos](#-objetivos)
 - [👨‍💻 Autor](#autor)
 
 ---
