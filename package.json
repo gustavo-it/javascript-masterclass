@@ -1,0 +1,18 @@
+{
+  "name": "javascript-masterclass",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">📚 Repositório de Estudos: JavaScript do Básico ao Avançado</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.31.0",
+    "eslint": "^9.31.0",
+    "eslint-config-prettier": "^10.1.5",
+    "globals": "^16.3.0"
+  }
+}
