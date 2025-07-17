@@ -105,6 +105,7 @@ Este material online contém a explicação detalhada de cada aula presente no c
 Ele serve como um complemento para o repositório, ajudando você a entender melhor o funcionamento do código e aprofundar seus estudos de forma organizada.
 
 Acesse o conteúdo completo e atualizado aqui:
+
 [📚 Documentação do Repositório JavaScript no Notion](https://gustavo-it.notion.site/JavaScript-do-B-sico-ao-Avan-ado-23310793a6448069bfbcfffb890af8dc?pvs=74)
 
 ---
