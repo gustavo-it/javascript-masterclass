@@ -96,13 +96,13 @@ Aqui o foco é **desenvolver seu raciocínio lógico** e preparar você para res
    git clone https://github.com/gustavo-it/nome-do-repo.git
    ```
 2. Configure seu ambiente de desenvolvimento no VSCode:
-  - Instale as extensões no seu VSCode:
-    - Prettier - Code Formatter
-    - ESLint
-  - Em seguida, vá em **configurações** `Ctrl + ,` e altere os seguintes itens:
-    - **Editor: Default Formatter** --> Selecione: `esbenp.prettier-vscode`
-    - **Editor: Format On Save** --> Ative
-    - **Files: Auto Save** --> Selecione `afterDelay`
+   - Instale as extensões no seu VSCode:
+      - Prettier - Code Formatter
+      - ESLint
+    - Em seguida, vá em **configurações** `Ctrl + ,` e altere os seguintes itens:
+      - **Editor: Default Formatter** --> Selecione: `esbenp.prettier-vscode`
+      - **Editor: Format On Save** --> Ative
+      - **Files: Auto Save** --> Selecione `afterDelay`
 3. Na raiz do projeto, abra o terminal e instale as dependências.
    ```bash
    npm install
