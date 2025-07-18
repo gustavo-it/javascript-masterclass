@@ -1,9 +1,6 @@
 /**
- * Logs the string "Maria" to the console using different types of string literals:
- * - Double quotes
- * - Single quotes
- * - Template literals
+ * Exibe o nome "Maria" no console utilizando diferentes tipos de aspas.
  */
-console.log("Maria");
+console.log('Maria');
 console.log('Maria');
 console.log(`Maria`);

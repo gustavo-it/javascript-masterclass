@@ -1,3 +1,10 @@
+/**
+ * Exibe 'Hello World!' no console.
+ *
+ * Demonstração de comentários em JavaScript:
+ * - Comentário de linha única
+ * - Comentário de bloco para descrever seções maiores ou desativar código temporariamente
+ */
 // Comentário de linha única
 
 console.log('Hello World!'); // Trecho ignorado

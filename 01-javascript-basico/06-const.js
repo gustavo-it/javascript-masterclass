@@ -1,12 +1,9 @@
 /**
- * Declares personal information constants and logs a greeting message to the console.
+ * Exibe uma mensagem no console apresentando o nome completo e a idade de uma pessoa.
  *
- * @constant {string} firstName - The first name of the person.
- * @constant {string} lastName - The last name of the person.
- * @constant {number} age - The age of the person.
- *
- * Logs a message in the format:
- * "Hello, my name is {firstName} {lastName} and I am {age} years old."
+ * @constant {string} firstName - O primeiro nome da pessoa.
+ * @constant {string} lastName - O sobrenome da pessoa.
+ * @constant {number} age - A idade da pessoa.
  */
 const firstName = 'Maria';
 const lastName = 'Silva';
