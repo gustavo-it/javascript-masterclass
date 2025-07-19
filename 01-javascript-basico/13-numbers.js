@@ -1,3 +1,11 @@
+/**
+ * Demonstra operações básicas com números em JavaScript:
+ * - Conversão de número para string.
+ * - Arredondamento de número decimal para duas casas decimais.
+ * - Verificação se um valor é inteiro.
+ * - Verificação se uma operação resulta em NaN.
+ * - Demonstração de como evitar imprecisão em operações com ponto flutuante.
+ */
 let num1 = 10;
 num1 = num1.toString();
 console.log(num1, typeof num1);
