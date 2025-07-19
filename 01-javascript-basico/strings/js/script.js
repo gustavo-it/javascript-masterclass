@@ -1,3 +1,15 @@
+/**
+ * Solicita ao usuário que digite seu nome completo e exibe várias informações sobre o nome na página:
+ * - O nome completo digitado.
+ * - A quantidade de letras do nome.
+ * - A segunda letra do nome.
+ * - O primeiro índice da letra "a" no nome.
+ * - O último índice da letra "a" no nome.
+ * - As últimas três letras do nome.
+ * - As palavras que compõem o nome.
+ * - O nome em letras maiúsculas.
+ * - O nome em letras minúsculas.
+ */
 const fullName = prompt('Digite seu nome completo: ');
 document.body.innerHTML = `O seu nome é: ${fullName} <br />`;
 document.body.innerHTML += `O seu nome tem ${fullName.length} letras <br />`;
